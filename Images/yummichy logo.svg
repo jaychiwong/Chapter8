@@ -4,13 +4,13 @@
 	 viewBox="0 0 1366 768" style="enable-background:new 0 0 1366 768;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:none;}
-	.st1{fill:#E1C699;}
+	.st1{fill:#E1C699;stroke:#FFFFFF;stroke-miterlimit:10;}
 	.st2{font-family:'FuturaPT-Book';}
 	.st3{font-size:72px;}
 	.st4{fill:none;stroke:#3CB043;stroke-width:0.8136;stroke-miterlimit:10;}
 </style>
-<rect x="519.38" y="297" class="st0" width="360.62" height="60"/>
+<rect x="519.4" y="297" class="st0" width="360.6" height="60"/>
 <text transform="matrix(1 0 0 1 519.3813 349.4873)" class="st1 st2 st3">YUMMICHY</text>
-<path class="st4" d="M476.03,334.23c0,0,131.36-47.65,229.46-6.08s217.27-17.8,217.27-17.8"/>
-<path class="st4" d="M476.81,350.77c0,0,131.36-47.65,229.46-6.08s217.27-17.8,217.27-17.8"/>
+<path class="st4" d="M476,334.2c0,0,131.4-47.6,229.5-6.1s217.3-17.8,217.3-17.8"/>
+<path class="st4" d="M476.8,350.8c0,0,131.4-47.6,229.5-6.1s217.3-17.8,217.3-17.8"/>
 </svg>
